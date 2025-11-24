@@ -10,9 +10,9 @@ Administrátoři často nastavují politiku `Enforce password history` (vynucen�
 
 Tento skript v Pythonu to řeší následovně:
 1. Načte vaše současné heslo.
-2. Cyklicky ho 23krát změní přidáváním znaků čímž „vypláchne“ historii v AD.
+2. Cyklicky ho 23x změní přidáváním znaků čímž „vypláchne“ historii v AD.
 3. Jako 24. změnu nastaví zpět vaše **původní heslo**.
-4. Výsledek je ten že systém je spokojený s provedenou změnou a vy máte své staré heslo zpět.
+4. Výsledek je, že systém i admin jsou spokojeni s provedenou změnou a vy máte své staré heslo zpět.
 
 ## 🛠 Požadavky
 
