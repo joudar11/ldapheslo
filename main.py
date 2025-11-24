@@ -5,8 +5,8 @@ import time
 import getpass
 
 # --- KONFIGURACE ---
-SERVER_ADRESA = input("Vložte Vaši adresu řadiče: ") 
-DOMENA = input("Vložte Vaši doménu: ") 
+SERVER_ADRESA = "adresa.domenoveho.radice.firma.cz"
+DOMENA = "domena.firma.cz"
 # --- END KONFIGURACE ---
 STARE_HESLO = getpass.getpass("Zadejte vaše heslo: ")
 POSLEDNI_HESLO = STARE_HESLO
