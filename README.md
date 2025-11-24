@@ -4,7 +4,7 @@ Autor: Kryštof Klika
 
 > „Protože moje staré heslo bylo dokonalé a odmítám se ho vzdát.“
 
-Tento mikroprojekt slouží jako digitální protest proti bezpečnostním politikám které vynucují historii hesel. Skript automatizovaně provede sérii změn hesla v Active Directory tak aby naplnil buffer historie hesel a na konci nastavil zpět to původní které máte rádi.
+Tento mikroprojekt slouží jako digitální protest proti bezpečnostním politikám které vynucují historii hesel. Skript automatizovaně provede sérii změn hesla v Active Directory tak aby naplnil buffer historie hesel a na konci nastavil zpět to původní, které máte rádi.
 
 ## 🎯 O co jde
 
