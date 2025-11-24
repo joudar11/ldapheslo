@@ -1,3 +1,5 @@
+Autor: Kryštof Klika
+
 # 🔄 AD Password History Bypasser
 
 > „Protože moje staré heslo bylo dokonalé a odmítám se ho vzdát.“
